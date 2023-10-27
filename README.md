@@ -2,7 +2,7 @@
 Um aplicativo para gestão de livros digitais
 
 # Stack esperada
-1. NodeJs
+1. NodeJs(NextJs,Remix ou Expo)
 2. ReactJs
 3. Tailwindcss
 
