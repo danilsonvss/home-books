@@ -1,7 +1,7 @@
 # Home Books
 Um aplicativo para gestão de livros digitais
 
-# Stack esperada
+# Stack recomendada
 1. NodeJs
 2. ReactJs(NextJs,Remix ou Expo)
 3. Tailwindcss
