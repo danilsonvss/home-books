@@ -8,7 +8,7 @@ Um aplicativo para gestão de livros digitais
 4. Material Symbols
 
 ## Layout no figma
-[Clique aqui](https://www.figma.com/file/SScb4HxPGxcwhKN6p1Ur2S/Home-Books?type=design&node-id=0%3A1&mode=design&t=VLVxHQjCbNrR9RRD-1) para acessar o layout.
+[Clique aqui](https://www.figma.com/file/lPZVwxoBB94OQ5rbZKsaq2/Home-Books?type=design&mode=design&t=654oCV8wlV0363Sm-1) para acessar o layout.
 
 # Parte 1
 
