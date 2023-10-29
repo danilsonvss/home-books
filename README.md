@@ -60,3 +60,8 @@ Deve conter filtro nos campos: Id, Titulo, Categoria, Autor, Ativo
 3. Categoria
 4. Autor
 5. Ativo
+
+### Dashboard
+A criação dessa página é de responsabilidade do desenvolvedor.
+
+Coloque sua criatividade em prática. Tenha em mente o prazo.
