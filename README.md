@@ -58,8 +58,9 @@ Deve conter filtro nos campos: Id, Titulo, Categoria, Autor, Ativo
 1. Id
 2. Titulo
 3. Categoria
-4. Autor
-5. Ativo
+4. Descrição
+5. Autor
+6. Ativo
 
 ### Dashboard
 A criação dessa página é de responsabilidade do desenvolvedor.
