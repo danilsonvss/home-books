@@ -5,9 +5,10 @@ O prazo para finalização do projeto é de 5 dias.
 
 ## Stack recomendada
 1. NodeJs (Express, Nest etc.)
-2. ReactJs(NextJs,Remix, Expo etc.)
-3. Tailwindcss
-4. Material Symbols
+2. PHP (Laravel, Zend etc.)
+3. ReactJs(NextJs,Remix, Expo etc.)
+4. Tailwindcss
+5. Material Symbols
 
 ## Layout no figma
 [Clique aqui](https://www.figma.com/file/lPZVwxoBB94OQ5rbZKsaq2/Home-Books?type=design&mode=design&t=654oCV8wlV0363Sm-1) para acessar o layout.
