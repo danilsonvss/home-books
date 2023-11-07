@@ -40,28 +40,31 @@ Esta área é composta por Categorias, Autores e Livros
 ### Categorias
 Deve conter filtro nos campos: Id, Nome, Descrição, Ativo
 
-1. Id
-2. Nome
-3. Descrição
-4. Ativo
+1. Id (Auto)
+2. UUID (Auto)
+3. Nome (Obrigatório)
+4. Descrição (Opcional)
+5. Ativo (Default: true)
 
 ### Autores
 Deve conter filtro nos campos: Id, Nome, Biografia, Ativo
 
-1. Id
-2. Nome
-3. Biografia
-4. Ativo
+1. Id (Auto)
+2. UUID (Auto)
+3. Nome (Obrigatório)
+4. Biografia (Obrigatório)
+5. Ativo (Default: true)
 
 ### Livros
 Deve conter filtro nos campos: Id, Titulo, Categoria, Autor, Ativo
 
-1. Id
-2. Titulo
-3. Categoria
-4. Descrição
-5. Autor
-6. Ativo
+1. Id (Auto)
+2. UUID (Auto)
+3. Titulo (Obrigatório)
+4. Categoria (Obrigatório)
+5. Descrição (Obrigatório)
+6. Autor (Obrigatório)
+7. Ativo (Default: true)
 
 ### Dashboard
 A criação dessa página é de responsabilidade do desenvolvedor.
